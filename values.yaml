@@ -713,6 +713,9 @@ extraEnvs: []
 #        key: FOO
 #        name: secret-resource
 
+## Override base image arguments
+# argsOverride: []
+
 ## Additional volumes to mount
 extraVolumeMounts: []
 #  - name: extra-volume
